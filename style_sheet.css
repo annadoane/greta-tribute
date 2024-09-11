@@ -1,0 +1,71 @@
+h1 {
+    font-family: 'Bebas Neue', sans-serif;
+     margin: 0;
+     padding: 0;
+
+      
+}
+    
+h2 {
+    font-family: 'Bebas Neue', sans-serif
+}
+    
+img {
+    max-width: 100%;
+    height: auto;
+  }
+
+  body{
+    font-family: 'Urbanist', sans-serif
+  }
+
+  body {
+    background-color: #64113f;
+  }
+
+  h1{
+    color: #de4d86;
+}
+h1{
+    color: #de4d86;
+}
+
+h2{
+    color: #de4d86;
+}
+  
+body{
+    color: #f7cacd;
+}
+
+h2{
+    font-size: 55px;
+}
+
+body{
+    font-size: 20px;
+}
+
+p{
+    font-size: 15px;
+    background-color:#921C5D
+}
+
+footer{
+    text-align: center;
+}
+
+h3{
+    margin: 0;
+     padding: 0;
+}
+
+body{
+    margin: 0;
+     padding: 0;
+}
+
+h2{
+    margin: 0;
+     padding right: 10px;
+}
